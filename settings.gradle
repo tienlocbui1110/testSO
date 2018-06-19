@@ -1,0 +1,1 @@
+include ':app', 'sonar-0.0.1-LOCAL'
